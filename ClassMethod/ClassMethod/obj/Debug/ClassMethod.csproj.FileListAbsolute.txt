@@ -1,0 +1,9 @@
+C:\Users\gk-89\source\repos\ClassMethod\ClassMethod\bin\Debug\ClassMethod.exe.config
+C:\Users\gk-89\source\repos\ClassMethod\ClassMethod\bin\Debug\ClassMethod.exe
+C:\Users\gk-89\source\repos\ClassMethod\ClassMethod\bin\Debug\ClassMethod.pdb
+C:\Users\gk-89\source\repos\ClassMethod\ClassMethod\obj\Debug\ClassMethod.csprojAssemblyReference.cache
+C:\Users\gk-89\source\repos\ClassMethod\ClassMethod\obj\Debug\ClassMethod.Form1.resources
+C:\Users\gk-89\source\repos\ClassMethod\ClassMethod\obj\Debug\ClassMethod.Properties.Resources.resources
+C:\Users\gk-89\source\repos\ClassMethod\ClassMethod\obj\Debug\ClassMethod.csproj.GenerateResource.cache
+C:\Users\gk-89\source\repos\ClassMethod\ClassMethod\obj\Debug\ClassMethod.exe
+C:\Users\gk-89\source\repos\ClassMethod\ClassMethod\obj\Debug\ClassMethod.pdb
